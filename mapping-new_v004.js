@@ -30,8 +30,7 @@
 // - ADD: Variáveis de controle de reconexão (newApiReconnectAttempts, etc.)
 // =====================================================================
 
-const app_id = (74041 % 18555)+46061-String.fromCodePoint(52, 57)-String.fromCodePoint(49);
-const LEGACY_WS_URL = "wss://ws.derivws.com/websockets/v3?app_id=" + app_id;
+
 
 // ===== NOVA API DERIV - CONSTANTES =====
 const DERIV_CLIENT_ID = "32GpfVoE9TYu2037ADwey";
